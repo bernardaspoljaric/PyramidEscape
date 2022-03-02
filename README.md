@@ -1,5 +1,5 @@
 # PyramidEscape
-<img src="images/CoverPicture.PNG?raw=true"/>
+<img src="images/CoverPicture.png?raw=true"/>
 
 ---
 
